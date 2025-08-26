@@ -1,6 +1,6 @@
 #  Customer Segmentation — Big Data Analysis  
 
-A comprehensive **customer segmentation analysis** using Python and clustering techniques—built to provide actionable insights from large-scale customer data.
+A comprehensive **customer segmentation analysis** using Python, pyspark and clustering techniques—built to provide actionable insights from large-scale customer data.
 
 ---
 
