@@ -75,13 +75,15 @@ Recommend targeted marketing strategies
 Highlight customer behaviors for product development
 
 ## Key Highlights
-Feature	Purpose
-End-to-End Pipeline	From raw data to insights in a single notebook
-Data Cleaning & Feature Engineering	Enriches model performance and interpretability
-Clustering Analysis	Identifies distinct customer groups using ML
-Data Visualization	Makes results intuitive and actionable
-Business Insights	Tailor marketing strategies based on customer segments
-
+```
+| Feature                             | Purpose                                                |
+| ----------------------------------- | ------------------------------------------------------ |
+| End-to-End Pipeline                 | From raw data to insights in a single notebook         |
+| Data Cleaning & Feature Engineering | Enriches model performance and interpretability        |
+| Clustering Analysis                 | Identifies distinct customer groups using ML           |
+| Data Visualization                  | Makes results intuitive and actionable                 |
+| Business Insights                   | Tailor marketing strategies based on customer segments |
+```
 ## Potential Enhancements
 
 Integrate dimensionality reduction (PCA, t-SNE) to visualize clusters more clearly
